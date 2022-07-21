@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NsikakabasiUmoh
-- 👀 I’m interested in python and linux programming languages
+- 👀 I’m interested in python and C# programming languages
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on with anyone
 - 📫 How to reach me at nsikakabasieumoh@gmail.com
